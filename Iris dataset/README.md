@@ -5,6 +5,8 @@ This notebook demonstrates how to use a **Different ML Algorithms** on the famou
 
 ## ⚙️ Algorithms Used
 - DecisionTreeClassifier (from sklearn)
+- SVM
+- Random Forest
 
 ## 🧪 Dataset
 - **Source**: `Iris.csv` (UCI Machine Learning Repository)
